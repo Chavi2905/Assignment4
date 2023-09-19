@@ -1,0 +1,7 @@
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\assignment4\obj\Debug\assignment4.pdb
