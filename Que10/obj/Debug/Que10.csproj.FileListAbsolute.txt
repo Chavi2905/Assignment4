@@ -1,0 +1,7 @@
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\bin\Debug\Que10.exe.config
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\bin\Debug\Que10.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\bin\Debug\Que10.pdb
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\obj\Debug\Que10.csproj.AssemblyReference.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\obj\Debug\Que10.csproj.CoreCompileInputs.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\obj\Debug\Que10.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que10\obj\Debug\Que10.pdb
