@@ -1,0 +1,7 @@
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\bin\Debug\Que8.exe.config
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\bin\Debug\Que8.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\bin\Debug\Que8.pdb
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\obj\Debug\Que8.csproj.AssemblyReference.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\obj\Debug\Que8.csproj.CoreCompileInputs.cache
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\obj\Debug\Que8.exe
+C:\Users\harshit\OneDrive\Desktop\chavi gla\.net with c#\assignment4\Que8\obj\Debug\Que8.pdb
